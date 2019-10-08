@@ -4,3 +4,4 @@ In the first section, I will introduced a simple and interactive model of direct
 The second section explores how long it takes for a neutral mutation to reach fixity with a given allele frequency and population size, following in the footsteps of Kimura and Ohta. 
 The goal of this project is to dig deeper into canonical results in population genetics, using simulation to illustrate interesting results, answer complex questions, and verify analytical solutions.
 
+The app's source code lives here, and the app itself lives on a shinyapps server here: https://sbilliau.shinyapps.io/Genetics/
